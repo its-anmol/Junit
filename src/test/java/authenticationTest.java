@@ -1,7 +1,8 @@
-import org.junitpractice.Authentication;
-import org.junitpractice.UserClass;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.junitpractice.Authentication;
+import org.junitpractice.UserClass;
 
 import static org.junit.jupiter.api.Assertions.*;
 
